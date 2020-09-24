@@ -1,6 +1,6 @@
 package webservices;
 
-import beans.*;
+import entities.*;
 import components.UserComponent.IUserManagement;
 
 import javax.ejb.EJB;

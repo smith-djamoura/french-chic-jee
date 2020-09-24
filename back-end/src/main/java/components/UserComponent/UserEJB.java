@@ -1,5 +1,5 @@
 package components.UserComponent;
-import beans.*;
+import entities.*;
 import java.util.ArrayList;
 import java.util.List;
 

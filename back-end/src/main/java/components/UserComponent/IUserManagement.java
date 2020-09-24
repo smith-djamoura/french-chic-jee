@@ -1,5 +1,5 @@
 package components.UserComponent;
-import beans.User;
+import entities.User;
 
 
 import javax.ejb.Local;

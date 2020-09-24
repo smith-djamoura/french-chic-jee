@@ -1,5 +1,5 @@
 package webservices;
-import beans.*;
+import entities.*;
 
 import javax.interceptor.Interceptors;
 import javax.jws.WebMethod;
