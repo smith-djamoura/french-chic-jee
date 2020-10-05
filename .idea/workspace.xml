@@ -29,8 +29,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1e4f269b-c3b2-40df-b1ae-5a6d14036820" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/french-chic-jee.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/french-chic-jee.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomEE_tutorial.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="shared-indexes" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat Server">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -481,7 +481,7 @@
       <workItem from="1601927516418" duration="215000" />
       <workItem from="1601927745467" duration="373000" />
       <workItem from="1601928154852" duration="1849000" />
-      <workItem from="1601930037593" duration="2094000" />
+      <workItem from="1601930037593" duration="3124000" />
     </task>
     <servers />
   </component>
@@ -593,10 +593,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="845" height="218" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1600987399969" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1601931161671">
+    <state x="121" y="0" key="SettingsEditor" timestamp="1601932798851">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1601931161671" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1601932798851" />
     <state x="91" y="21" key="new project wizard" timestamp="1601898564122">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
