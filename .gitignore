@@ -21,3 +21,4 @@ log/
 *.prefs
 *.lck
 .settings/
+/.idea/
